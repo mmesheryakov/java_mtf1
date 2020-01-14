@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84ec1034-21de-4df1-83b6-f1be917149c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/sandbox">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1WO0gw1aCmwBUVeM4olNpkAOfax" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+      <module name="sandbox.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ec1034-21de-4df1-83b6-f1be917149c4" name="Default Changelist" comment="" />
+      <created>1579005448479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579005448479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="362" key="#Project_Structure" timestamp="1579005494448">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="362" key="#Project_Structure/0.0.2560.1400/-1920.436.1920.1040@0.0.2560.1400" timestamp="1579005494448" />
+    <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1579005603023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400/-1920.436.1920.1040@0.0.2560.1400" timestamp="1579005603023" />
+    <state x="760" y="278" key="SettingsEditor" timestamp="1579005823023">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="278" key="SettingsEditor/0.0.2560.1400/-1920.436.1920.1040@0.0.2560.1400" timestamp="1579005823023" />
+    <state x="987" y="529" key="com.intellij.ide.util.TipDialog" timestamp="1579005824910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="529" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.436.1920.1040@0.0.2560.1400" timestamp="1579005824910" />
+  </component>
+</project>
